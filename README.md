@@ -1,5 +1,5 @@
 # exo_snowflake-Dbt
-# TP Guidé — dbt natif avec Snowflake
+# TP Guidé - dbt natif avec Snowflake
 
 ## Objectif pédagogique
 
